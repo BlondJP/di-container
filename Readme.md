@@ -4,7 +4,7 @@ This container allows you to practice Dependency Injection with Functionnal Prog
 
 ## Getting Started
 
-In the modern approach of javacscript programming, you will find <b>functionnal programming</b> and <b>pure functions</b>.
+In the modern approach of javascript programming, you will find <b>functionnal programming</b> and <b>pure functions</b> as recommandations. This container is throught to allow thoses practices.
 
 ### Installing
 
