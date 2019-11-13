@@ -11,7 +11,11 @@ In the modern approach of javascript programming, you will find <b>functionnal p
 You can install this library with git clone.
 
 ```
-git clone https://github.com/BlondJP/di-container.git
+yarn add fp-di-container
+```
+or
+```
+npm install fp-di-container --save
 ```
 
 ### Usage
