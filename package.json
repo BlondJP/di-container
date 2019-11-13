@@ -1,0 +1,26 @@
+{
+  "name": "fp-di-container",
+  "description": "This container allows you to practice Dependency Injection with Functionnal Programming.",
+  "version": "1.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlondJP/di-container.git"
+  },
+  "keywords": [
+    "dependency injection",
+    "di js",
+    "js dependency injection",
+    "di functionnal programming"
+  ],
+  "author": "Jean-Philippe BLOND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlondJP/di-container/issues"
+  },
+  "homepage": "https://github.com/BlondJP/di-container#readme"
+}

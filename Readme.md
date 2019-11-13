@@ -19,7 +19,7 @@ git clone https://github.com/BlondJP/di-container.git
 You can use the container this way:
 
 ```js
-const { createContainer } = require("./");
+const {createContainer} = require('fp-di-container')
 
 const container = createContainer();
 
