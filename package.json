@@ -1,7 +1,7 @@
 {
   "name": "fp-di-container",
   "description": "This container allows you to practice Dependency Injection with Functionnal Programming.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
