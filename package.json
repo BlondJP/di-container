@@ -3,9 +3,11 @@
   "description": "This container allows you to practice Dependency Injection with Functionnal Programming.",
   "version": "1.0.3",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",

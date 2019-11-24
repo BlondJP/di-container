@@ -1,7 +1,8 @@
 const Container = require("./container");
 
 function createContainer() {
-  return new Container();
+  const initialFunctions = new Map()
+  return new Container(initialFunctions)
 }
 
 module.exports = createContainer;
